@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+requests
+astropy
+astroquery
+matplotlib
+pypdf
