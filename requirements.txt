@@ -6,3 +6,4 @@ astropy
 astroquery
 matplotlib
 pypdf
+scipy
